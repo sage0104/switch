@@ -326,6 +326,7 @@ article p{
 .postbtn h4{
     padding: 5px 0;
     font-size: 1.2em;
+    text-align: left;
     color: #CCC;
     text-transform: capitalize;
 }
